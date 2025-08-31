@@ -57,3 +57,5 @@ Copy code
 python "Movie recommendation.py"
 🎥 Example
 After running the script:
+<img width="886" height="350" alt="image" src="https://github.com/user-attachments/assets/be5a20e1-f8d5-4ade-b986-7890d9e1ffb9" />
+
